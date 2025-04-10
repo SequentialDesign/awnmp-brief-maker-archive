@@ -1,0 +1,56 @@
+(
+tn: tion |
+sn: ssion |
+zn: sion |
+ism: isme |
+ist: iste |
+gm: gramme |
+gf: graphe |
+gfi: graphie |
+gfq: graphique |
+lgi: logie |
+lgq: logique |
+tnr: tionnaire |
+snr: sionnaire |
+(tnl: tionnel |
+snl: ssionnel |
+znl: sionnel) (e : le |) |
+isat: issant |
+iq: ique |
+pn: phone | #fn would conflict too much with function#
+tl: tiel |
+tle: tielle |
+pd: prendre |
+ab: able |
+ib: ible |
+fc, ft, fcn, ftn: ification |
+fv: ificative |
+ff: ificatif 
+) (s : s |) |
+
+tt: tôt |
+mt: ment |
+vr: voir |
+fr: faire |
+
+((
+ib: ible |
+ab: able |
+l: le |
+b: ble |
+q: que |
+t: te |
+tl: tielle |
+gf, gfq, gfi: graphique |
+v: ive |
+n: ne |
+d: de |
+tnl: tionnelle |
+snl: ssionnelle |
+znl: sionnelle)
+(m: ment)) |
+
+(
+	({,test,,}(test) | notest) :
+	({test,,,}(yes){!test,,,}(no)) ", " "there has " {!test,,,}(not " ") "been test."
+)
