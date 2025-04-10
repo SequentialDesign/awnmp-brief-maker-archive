@@ -1,0 +1,30 @@
+::i::I
+::y::you
+::h::he
+::s::she
+::t::they
+::im::I must
+::ym::you must
+::hm::he must
+::sm::she must
+::tm::they must
+::iho::I should
+::yho::you should
+::hho::he should
+::sho::she should
+::tho::they should
+::iha::I shall
+::yha::you shall
+::hha::he shall
+::sha::she shall
+::tha::they shall
+::ic::I can
+::yc::you can
+::hc::he can
+::sc::she can
+::tc::they can
+::ico::I could
+::yco::you could
+::hco::he could
+::sco::she could
+::tco::they could

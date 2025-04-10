@@ -1,0 +1,9 @@
+Now, you want to make some phrasse, after all, you could make all the previous things as easily, if not easier by had.
+
+A classical phrasial example is pronoun + verbs
+
+Make a pre-dictionary on which you can:
+- write "i" for "I", "u" for "you", "s" for "she", "h" for "he", "t" for "they"
+- On top of that, after there might be "m" for "must", "ho" for "should", "ha" for "shall", "c" for "can", "co" for "could".
+
+Be careful, don't forget the space between the pronouns and the verbs

@@ -1,0 +1,2 @@
+(i: I|y: you| {,third,,}(h: he|s: she) |t: they)
+(| " " (m: must | ho: should | ha: shall | c: can | co: could | ((lv: love| mk: make| (d: do) {third,,,}("e")) {third,,,}("s"))))

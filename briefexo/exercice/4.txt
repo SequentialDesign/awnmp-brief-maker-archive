@@ -1,0 +1,6 @@
+The previous example made lots of briefs, in a way that allows to add new ones. BUT, what if you want to add verbs like "work"?
+
+The problem is that it'd work well for I/you/they but will lack a 's' for she/he.
+
+Modify the previous pre-dictonary (ex 3) to add:
+- "mk" for "make", "d" for "do", "lv" for "love"

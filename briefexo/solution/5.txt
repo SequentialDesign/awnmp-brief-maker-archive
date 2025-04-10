@@ -1,0 +1,20 @@
+({,first,,}(i: I)|{,second,,}(y: you)| {,third,,}(h: he|s: she) | {,thirdplur,,}(t: they)) #5 possibilities#
+
+(| {,past,,}(p : )
+| {,future,,}(w : " " will)) #3 possibilities, 5*3 = 15#
+(| " " ({,be,,}(b:
+	{future,,,}(be) {past,,,}({second+thirdplur,,,}(were){![second+thirdplur],,,}(was)){![past+future],,,}({first,,,}(am){second+thirdplur,,,}(are){third,,,}(is))
+)| {,modal,,}(m: must | ho: should | c: can | co: could | d: ({future,,,}(do){!future,,,}({past,,,}(did){!past,,,}({third,,,}(does){!third,,,}(do))))) ))
+
+
+(| " " (
+    {,valid_ing,,}(
+	{,valid_ed,,}(
+	    (lv: lov | mk: mak) {!be,,,}(e)
+	) |
+	d: {![be+modal]*past,,,}(did){![![be+modal]*past],,,}(do {third*![modal+be],,,}(e)) 
+    )
+    {third*![modal+be+future+past],,,}(s)
+    {past*valid_ed*![modal+be],,,}(d)
+    {valid_ing*be,,,}(ing)
+))

@@ -1,0 +1,407 @@
+::i::I
+::y::you
+::h::he
+::s::she
+::t::they
+::ip::I
+::yp::you
+::hp::he
+::sp::she
+::tp::they
+::iw::I will
+::yw::you will
+::hw::he will
+::sw::she will
+::tw::they will
+::iwb::I will be
+::ywb::you will be
+::hwb::he will be
+::swb::she will be
+::twb::they will be
+::ypb::you were
+::tpb::they were
+::ipb::I was
+::hpb::he was
+::spb::she was
+::ib::I am
+::yb::you are
+::tb::they are
+::hb::he is
+::sb::she is
+::im::I must
+::ym::you must
+::hm::he must
+::sm::she must
+::tm::they must
+::ipm::I must
+::ypm::you must
+::hpm::he must
+::spm::she must
+::tpm::they must
+::iwm::I will must
+::ywm::you will must
+::hwm::he will must
+::swm::she will must
+::twm::they will must
+::iho::I should
+::yho::you should
+::hho::he should
+::sho::she should
+::tho::they should
+::ipho::I should
+::ypho::you should
+::hpho::he should
+::spho::she should
+::tpho::they should
+::iwho::I will should
+::ywho::you will should
+::hwho::he will should
+::swho::she will should
+::twho::they will should
+::ic::I can
+::yc::you can
+::hc::he can
+::sc::she can
+::tc::they can
+::ipc::I can
+::ypc::you can
+::hpc::he can
+::spc::she can
+::tpc::they can
+::iwc::I will can
+::ywc::you will can
+::hwc::he will can
+::swc::she will can
+::twc::they will can
+::ico::I could
+::yco::you could
+::hco::he could
+::sco::she could
+::tco::they could
+::ipco::I could
+::ypco::you could
+::hpco::he could
+::spco::she could
+::tpco::they could
+::iwco::I will could
+::ywco::you will could
+::hwco::he will could
+::swco::she will could
+::twco::they will could
+::iwd::I will do
+::ywd::you will do
+::hwd::he will do
+::swd::she will do
+::twd::they will do
+::ipd::I did
+::ypd::you did
+::hpd::he did
+::spd::she did
+::tpd::they did
+::hd::he does
+::sd::she does
+::id::I do
+::yd::you do
+::td::they do
+::ilv::I love
+::ylv::you love
+::tlv::they love
+::iwlv::I will love
+::ywlv::you will love
+::hwlv::he will love
+::swlv::she will love
+::twlv::they will love
+::imlv::I must love
+::ymlv::you must love
+::hmlv::he must love
+::smlv::she must love
+::tmlv::they must love
+::ipmlv::I must love
+::ypmlv::you must love
+::hpmlv::he must love
+::spmlv::she must love
+::tpmlv::they must love
+::iwmlv::I will must love
+::ywmlv::you will must love
+::hwmlv::he will must love
+::swmlv::she will must love
+::twmlv::they will must love
+::iholv::I should love
+::yholv::you should love
+::hholv::he should love
+::sholv::she should love
+::tholv::they should love
+::ipholv::I should love
+::ypholv::you should love
+::hpholv::he should love
+::spholv::she should love
+::tpholv::they should love
+::iwholv::I will should love
+::ywholv::you will should love
+::hwholv::he will should love
+::swholv::she will should love
+::twholv::they will should love
+::iclv::I can love
+::yclv::you can love
+::hclv::he can love
+::sclv::she can love
+::tclv::they can love
+::ipclv::I can love
+::ypclv::you can love
+::hpclv::he can love
+::spclv::she can love
+::tpclv::they can love
+::iwclv::I will can love
+::ywclv::you will can love
+::hwclv::he will can love
+::swclv::she will can love
+::twclv::they will can love
+::icolv::I could love
+::ycolv::you could love
+::hcolv::he could love
+::scolv::she could love
+::tcolv::they could love
+::ipcolv::I could love
+::ypcolv::you could love
+::hpcolv::he could love
+::spcolv::she could love
+::tpcolv::they could love
+::iwcolv::I will could love
+::ywcolv::you will could love
+::hwcolv::he will could love
+::swcolv::she will could love
+::twcolv::they will could love
+::iwdlv::I will do love
+::ywdlv::you will do love
+::hwdlv::he will do love
+::swdlv::she will do love
+::twdlv::they will do love
+::ipdlv::I did love
+::ypdlv::you did love
+::hpdlv::he did love
+::spdlv::she did love
+::tpdlv::they did love
+::hdlv::he does love
+::sdlv::she does love
+::idlv::I do love
+::ydlv::you do love
+::tdlv::they do love
+::imk::I make
+::ymk::you make
+::tmk::they make
+::iwmk::I will make
+::ywmk::you will make
+::hwmk::he will make
+::swmk::she will make
+::twmk::they will make
+::immk::I must make
+::ymmk::you must make
+::hmmk::he must make
+::smmk::she must make
+::tmmk::they must make
+::ipmmk::I must make
+::ypmmk::you must make
+::hpmmk::he must make
+::spmmk::she must make
+::tpmmk::they must make
+::iwmmk::I will must make
+::ywmmk::you will must make
+::hwmmk::he will must make
+::swmmk::she will must make
+::twmmk::they will must make
+::ihomk::I should make
+::yhomk::you should make
+::hhomk::he should make
+::shomk::she should make
+::thomk::they should make
+::iphomk::I should make
+::yphomk::you should make
+::hphomk::he should make
+::sphomk::she should make
+::tphomk::they should make
+::iwhomk::I will should make
+::ywhomk::you will should make
+::hwhomk::he will should make
+::swhomk::she will should make
+::twhomk::they will should make
+::icmk::I can make
+::ycmk::you can make
+::hcmk::he can make
+::scmk::she can make
+::tcmk::they can make
+::ipcmk::I can make
+::ypcmk::you can make
+::hpcmk::he can make
+::spcmk::she can make
+::tpcmk::they can make
+::iwcmk::I will can make
+::ywcmk::you will can make
+::hwcmk::he will can make
+::swcmk::she will can make
+::twcmk::they will can make
+::icomk::I could make
+::ycomk::you could make
+::hcomk::he could make
+::scomk::she could make
+::tcomk::they could make
+::ipcomk::I could make
+::ypcomk::you could make
+::hpcomk::he could make
+::spcomk::she could make
+::tpcomk::they could make
+::iwcomk::I will could make
+::ywcomk::you will could make
+::hwcomk::he will could make
+::swcomk::she will could make
+::twcomk::they will could make
+::iwdmk::I will do make
+::ywdmk::you will do make
+::hwdmk::he will do make
+::swdmk::she will do make
+::twdmk::they will do make
+::ipdmk::I did make
+::ypdmk::you did make
+::hpdmk::he did make
+::spdmk::she did make
+::tpdmk::they did make
+::hdmk::he does make
+::sdmk::she does make
+::idmk::I do make
+::ydmk::you do make
+::tdmk::they do make
+::imd::I must do
+::ymd::you must do
+::hmd::he must do
+::smd::she must do
+::tmd::they must do
+::ipmd::I must do
+::ypmd::you must do
+::hpmd::he must do
+::spmd::she must do
+::tpmd::they must do
+::iwmd::I will must do
+::ywmd::you will must do
+::hwmd::he will must do
+::swmd::she will must do
+::twmd::they will must do
+::ihod::I should do
+::yhod::you should do
+::hhod::he should do
+::shod::she should do
+::thod::they should do
+::iphod::I should do
+::yphod::you should do
+::hphod::he should do
+::sphod::she should do
+::tphod::they should do
+::iwhod::I will should do
+::ywhod::you will should do
+::hwhod::he will should do
+::swhod::she will should do
+::twhod::they will should do
+::icd::I can do
+::ycd::you can do
+::hcd::he can do
+::scd::she can do
+::tcd::they can do
+::ipcd::I can do
+::ypcd::you can do
+::hpcd::he can do
+::spcd::she can do
+::tpcd::they can do
+::iwcd::I will can do
+::ywcd::you will can do
+::hwcd::he will can do
+::swcd::she will can do
+::twcd::they will can do
+::icod::I could do
+::ycod::you could do
+::hcod::he could do
+::scod::she could do
+::tcod::they could do
+::ipcod::I could do
+::ypcod::you could do
+::hpcod::he could do
+::spcod::she could do
+::tpcod::they could do
+::iwcod::I will could do
+::ywcod::you will could do
+::hwcod::he will could do
+::swcod::she will could do
+::twcod::they will could do
+::iwdd::I will do do
+::ywdd::you will do do
+::hwdd::he will do do
+::swdd::she will do do
+::twdd::they will do do
+::ipdd::I did do
+::ypdd::you did do
+::hpdd::he did do
+::spdd::she did do
+::tpdd::they did do
+::hdd::he does do
+::sdd::she does do
+::idd::I do do
+::ydd::you do do
+::tdd::they do do
+::hwd::he will doe
+::swd::she will doe
+::hlv::he loves
+::slv::she loves
+::hmk::he makes
+::smk::she makes
+::iplv::I loved
+::yplv::you loved
+::hplv::he loved
+::splv::she loved
+::tplv::they loved
+::ipmk::I maked
+::ypmk::you maked
+::hpmk::he maked
+::spmk::she maked
+::tpmk::they maked
+::iwblv::I will be loving
+::ywblv::you will be loving
+::hwblv::he will be loving
+::swblv::she will be loving
+::twblv::they will be loving
+::ypblv::you were loving
+::tpblv::they were loving
+::ipblv::I was loving
+::hpblv::he was loving
+::spblv::she was loving
+::iblv::I am loving
+::yblv::you are loving
+::tblv::they are loving
+::hblv::he is loving
+::sblv::she is loving
+::iwbmk::I will be making
+::ywbmk::you will be making
+::hwbmk::he will be making
+::swbmk::she will be making
+::twbmk::they will be making
+::ypbmk::you were making
+::tpbmk::they were making
+::ipbmk::I was making
+::hpbmk::he was making
+::spbmk::she was making
+::ibmk::I am making
+::ybmk::you are making
+::tbmk::they are making
+::hbmk::he is making
+::sbmk::she is making
+::iwbd::I will be doing
+::ywbd::you will be doing
+::hwbd::he will be doing
+::swbd::she will be doing
+::twbd::they will be doing
+::ypbd::you were doing
+::tpbd::they were doing
+::ipbd::I was doing
+::hpbd::he was doing
+::spbd::she was doing
+::ibd::I am doing
+::ybd::you are doing
+::tbd::they are doing
+::hbd::he is doing
+::sbd::she is doing

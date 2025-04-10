@@ -1,0 +1,6 @@
+Let's say you want to be annoying, you'll get access to someone else dictionary, and want to troll them a little.
+
+Do a pre-dictionary on which:
+- if you type "no" it returns "yes"
+- if you type "yes" it returns "no"
+- if you type "maybe" it returns "indeed"

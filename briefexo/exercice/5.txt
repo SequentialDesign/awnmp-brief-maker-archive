@@ -1,0 +1,10 @@
+The problem is that we aren't always talking in present tense.
+Sometimes, we speak about the past, the future, etc.
+Also, the verbs, such has "must", "can", "do", etc. can be used before another verb.
+
+Modify exercice 4 pre-dictionary such that:
+- you can add "b" after the pronoun such that the sentence will be "<prounoun> am/are/is <verb>ing" if the verb supports the "-ing". If you don't follow it by a verb, it'll be "<prounoun> am" (don't add an "ing" there)
+- you can't add "b" before modal verbs (or phrased differently, you can't place modal verbs after "b")
+- you can add "w" after the pronoun, such tha the sentence will be "<prounoun> will ...", it can be placed before the "b" to form "<prounoun> will be <verb>ing"
+- you can add "p" to form past tense after the pronoun, suh that the sentence will be "<prounoun> <verb>ed" (or the past tense of the verb), can be placed before the "m", but cannot coexist with "w".
+- you can concat modal verbs before another verb. So "must love" would be valid. The verb "do" count both as a modal and a non-modal verb, and things like "she does do" is considered valid.

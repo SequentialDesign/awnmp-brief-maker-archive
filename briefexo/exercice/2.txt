@@ -1,0 +1,5 @@
+Let's say you often do some typos, you're fed up of writing "thruogh" or whatever, and want your computer to fix it for you (I like when the computer do all the work for me :P)
+
+Make a pre-dictionary on which:
+- if you type "thruogh" or "trhough" or "throuhg" or "throu" or "thru" it returns "through" 
+- if you type "cna" or "acn" return "can"
